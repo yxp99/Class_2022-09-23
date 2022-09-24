@@ -4,7 +4,7 @@ title: 関連
 permalink: /about/
 ---
 
-Github Markdown Folder is [here](https://github.com/yxp99/Class_Ashley/tree/main/_posts).
+Github Markdown Folder is [here](https://github.com/yxp99/Class_2022-09-23/tree/main/_posts).
 
 ## Good Readings
 
