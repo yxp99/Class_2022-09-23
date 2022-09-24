@@ -6,7 +6,7 @@ permalink: /about/
 
 Github Markdown Folder is [here](https://github.com/yxp99/Class_2022-09-23/tree/main/_posts).
 
-## Good Readings
+## Interview Related Readings
 
 ### Algorithm
 
@@ -16,18 +16,19 @@ Github Markdown Folder is [here](https://github.com/yxp99/Class_2022-09-23/tree/
 
 - [Clean Code A Handbook of Agile Software Craftsmanship](https://github.com/jnguyen095/clean-code/blob/master/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf)
 - [Google Java Code Style](https://google.github.io/styleguide/javaguide.html)
+- [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 
 ### Interview Experience Sharing
 
 - [200 problems to Google](https://medium.com/@siddhism/how-i-prepared-for-google-0-leetcode-questions-to-200-questions-e37690ebce85)
 - [Famous Redit Post: Graduated with 2.4 GPA and got 3 Big offers](https://www.reddit.com/r/cscareerquestions/comments/9i0pow/graduated_with_a_24_gpa_1_year_ago_after_studying/)
 
-### SDE Related
+## SDE Related Readings
 
 - [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md?utm_source=wechat_session&utm_medium=social&utm_oi=1268090491691470848)
 
 
-## SDE related Youtube vidoes
+### SDE related Youtube vidoes
 
 - **RECOMMENDED**[Guy with 2.9 GPA now makes $300k as a SWE (Software Engineer)](https://www.youtube.com/watch?v=YGflHj1SjA4&ab_channel=JomaTech)
 - [Interview a SDE from Stanford](https://www.youtube.com/watch?v=_p64_S4bbjU&t=74s&ab_channel=JomaTech)
