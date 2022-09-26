@@ -4,11 +4,19 @@ title: 関連
 permalink: /shortcuts/
 ---
 
+## Meeting Link
+
+- [here](https://meet.google.com/qfw-mawd-dwb)
 
 ## 考纲
 
 - [Google Interview Prep Guide]({% link assets/[Google Interview Prep Guide] SWE .pdf %})
 - [Facebook Interview Prep Guide](% link Facebook Interview Prep Guide.pdf %})
+
+
+## Interview Related
+
+- [Company List](https://github.com/pittcsc/Summer2023-Internships)
 
 
 ## English
