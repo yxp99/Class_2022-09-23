@@ -63,6 +63,10 @@ Describe the outcome of your actions and don’t be shy about taking credit for 
 ## 策略
 
 BQ答得越快, 做题时间越多. 
+
+## 最重要四条
+
+- Ownership, deliver result, Bias for Action, Learn and Be Curious
 	
 ## 作业
 
