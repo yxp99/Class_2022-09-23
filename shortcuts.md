@@ -8,6 +8,10 @@ permalink: /shortcuts/
 
 - [here](https://meet.google.com/qfw-mawd-dwb)
 
+## Mock Interview
+
+- [codeshare](https://codeshare.io/)
+
 ## 考纲
 
 - [Google Interview Prep Guide]({% link assets/[Google Interview Prep Guide] SWE .pdf %})
