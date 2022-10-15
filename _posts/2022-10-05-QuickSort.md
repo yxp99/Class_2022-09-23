@@ -26,6 +26,10 @@ comments: true
 
 ### Code
 
+{::options parse_block_html="true" /}
+
+<details><summary markdown="span">Let's see some code!</summary>
+
 ```java
 public static void quickSort(int[] arr){
     qsort(arr, 0, arr.length-1);
@@ -73,6 +77,11 @@ public static int partition(int[] arr, int left, int right) {
     arr[b] = tmp;
   }
 ```
+
+</details>
+
+{::options parse_block_html="false" /}
+
 ### Unstable
 
 1, 2, 3, 4, 2`.  Cannot make sure the array keeps the same order. 
