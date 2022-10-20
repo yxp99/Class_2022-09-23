@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 関連
+title: 常備 [じょうび]
 permalink: /shortcuts/
 ---
 
