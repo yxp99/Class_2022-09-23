@@ -22,6 +22,10 @@ permalink: /shortcuts/
 
 - [Company List](https://github.com/pittcsc/Summer2023-Internships)
 
+## Resume 
+
+- [Joma's free resume template](https://www.jomaclass.com/free-resume)
+
 
 ## English
 
