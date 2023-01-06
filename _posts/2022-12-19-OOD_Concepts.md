@@ -7,6 +7,22 @@ tags: [OOD, OPLC]
 toc: true
 comments: true
 ---
+
+## 要点
+
+- 先确认需求, function 会写不会写先 放一边, OOP一定要考虑全. 每一个都问一下需不需要支持.
+- 然后确认所有case, 一定要跟面试官确认所有的可能需求, 然后确认edge case.
+- 最后再开始写代码. 千万不要着急写代码.
+	- 先不要写function里面的东西, 把function**根据上面的需求一个一个都列出来**, retrun 和 parameter写出来. 
+	- parameter 能用id用id, 用不了id, 再用string, int之类. 
+	- 必须有**unique id**, 
+	- 必须有增删改查. 
+	- **Parameter**从用户角度出发
+	- Service class应该是给所有用户共同调用, 而不是给每个客户都单独创建一个service.  
+	- 考虑Service 的时候, 注意Service 应该是一个Singleton 一直在run, 而不是在被call的时候才突然启用. 
+	- 注意var **命名规范, 多写注释.** OOD必须多解释, 不然面试官不懂在干什么. 
+	- 注意区分var 类型, ENUM 还是 instant 还是 class var. 
+	- Service 方法一定要写**public**. 
 	
 ## SOLID Principles
 
